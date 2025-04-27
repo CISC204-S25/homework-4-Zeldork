@@ -1,0 +1,6 @@
+[gd_scene load_steps=2 format=3 uid="uid://c5hnh8egnq8ix"]
+
+[ext_resource type="Script" path="res://abby.gd" id="1_hooxv"]
+
+[node name="Abby" type="Node2D"]
+script = ExtResource("1_hooxv")
